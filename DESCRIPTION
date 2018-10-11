@@ -1,0 +1,9 @@
+Package: kijijiR
+Title: Extracts and models data from kijiji
+Version: 0.0.0.9000
+Authors@R: person("Simon", "Bonner", email = "sbonner6@uwo.ca", role = c("aut", "cre"))
+Description: Extracts data for specific items from kijiji and models the price as a function of the available information.
+Depends: R (>= 3.5.1)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
